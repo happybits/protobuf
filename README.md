@@ -5,6 +5,8 @@ Copyright 2008 Google Inc.
 
 https://developers.google.com/protocol-buffers/
 
+(Joya note: We have build scripts over at (happybits/hbmx-prebuilt)[https://github.com/happybits/hbmx-prebuilt] for this and other dependencies. Check them out for convenience and instructions that may be more up-to-date.)
+
 Overview
 --------
 
